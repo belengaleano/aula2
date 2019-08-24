@@ -1,0 +1,2 @@
+# operação entre dois números inteiros que tem por fim somar um deles tantas vezes quantas forem 
+# as unidades do outro - defina multiplicação google
