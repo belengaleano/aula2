@@ -1,0 +1,1 @@
+operacion matematica que resulta de la division de un numero por otro, inverso a la multiplicacion
